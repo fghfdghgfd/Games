@@ -1,1 +1,11 @@
+<Module>
+<ModulePrefs title="Minecaaft"/>
+<Content type="html">
+<![CDATA[ <script>
+<!--
+document.write(unescape("%3C%21DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%3Chead%3E%0A%3Cmeta%20charset%3D%22UTF-8%22%3E%0A%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%3E%0A%3Ctitle%3EMinecraft%3C/title%3E%0A%3Cstyle%3E%0Abody%2C%20html%20%7B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%200%3B%0A%20%20height%3A%20100%25%3B%0A%20%20overflow%3A%20hidden%3B%0A%7D%0Aiframe%20%7B%0A%20%20position%3A%20fixed%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20border%3A%20none%3B%0A%7D%0A%3C/style%3E%0A%3Cscript%3E%0Awindow.onload%20%3D%20function%28%29%20%7B%0A%20%20var%20iframe%20%3D%20document.getElementById%28%27myIframe%27%29%3B%0A%20%20var%20url%20%3D%20%22https%3A//cdn.jsdelivr.net/gh/fghfdghgfd/games/EaglercraftX_1.8_u27_Offline_Signed.html%22%3B%0A%0A%20%20fetch%28url%29%0A%20%20%20%20.then%28response%20%3D%3E%20response.text%28%29%29%0A%20%20%20%20.then%28data%20%3D%3E%20%7B%0A%20%20%20%20%20%20iframe.contentWindow.document.open%28%29%3B%0A%20%20%20%20%20%20iframe.contentWindow.document.write%28data%29%3B%0A%20%20%20%20%20%20iframe.contentWindow.document.close%28%29%3B%0A%20%20%20%20%7D%29%0A%20%20%20%20.catch%28error%20%3D%3E%20console.error%28%27Error%20loading%20the%20file%3A%27%2C%20error%29%29%3B%0A%7D%3B%0A%3C/script%3E%0A%3C/head%3E%0A%3Cbody%3E%0A%0A%3Ciframe%20id%3D%22myIframe%22%3E%3C/iframe%3E%0A%0A%3C/body%3E%0A%3C/html%3E%0A"));
+//-->
+</script> ]]>
+</Content>
+</Module>
 
