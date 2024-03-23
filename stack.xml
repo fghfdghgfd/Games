@@ -1,0 +1,10 @@
+<Module>
+<ModulePrefs title="Stack"/>
+<Content type="html">
+<![CDATA[ <script>
+<!--
+document.write(unescape("%3C%21DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%20%3E%0A%3Chead%3E%0A%20%20%3Cmeta%20charset%3D%22UTF-8%22%3E%0A%20%20%3Ctitle%3EStack%20Game%202%3C/title%3E%0A%20%20%3Clink%20rel%3D%22stylesheet%22%20href%3D%22https%3A//cdn.jsdelivr.net/gh/Fresh4774/Stack_Game_2/style.css%22%3E%0A%0A%3C/head%3E%0A%3Cbody%3E%0A%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2Cuser-scalable%3Dno%22%3E%0A%0A%3Cdiv%20id%3D%22container%22%3E%0A%09%3Cdiv%20id%3D%22game%22%3E%3C/div%3E%0A%09%3Cdiv%20id%3D%22score%22%3E0%3C/div%3E%0A%09%3Cdiv%20id%3D%22instructions%22%3ECLICK%20OR%20USE%20THE%20SPACEBAR%20TO%20PLAY%20THE%20GAME%3C/div%3E%0A%09%3Cdiv%20class%3D%22game-over%22%3E%0A%09%09%3Ch2%3EGAME%20OVER%3C/h2%3E%0A%09%09%3Cp%3EGG%3C/p%3E%0A%09%09%3Cp%3ECLICK%20OR%20USE%20SPACEBAR%20TO%20RESTART%3C/p%3E%0A%09%3C/div%3E%0A%09%3Cdiv%20class%3D%22game-ready%22%3E%0A%09%09%3Cdiv%20id%3D%22start-button%22%3EStart%3C/div%3E%0A%09%09%3Cdiv%3E%3C/div%3E%0A%09%3C/div%3E%0A%3C/div%3E%0A%3Cscript%20src%3D%27https%3A//cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.min.js%27%3E%3C/script%3E%0A%3Cscript%20src%3D%27https%3A//cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js%27%3E%3C/script%3E%3Cscript%20%20src%3D%22https%3A//cdn.jsdelivr.net/gh/Fresh4774/Stack_Game_2/script.js%22%3E%3C/script%3E%0A%0A%3C/body%3E%0A%3C/html%3E"));
+//-->
+</script> ]]>
+</Content>
+</Module>
